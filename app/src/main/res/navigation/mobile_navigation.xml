@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.ass1.ui.home.FinanceFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_finance" />
+
+    <fragment
+        android:id="@+id/nav_edit_finance"
+        android:name="com.example.ass1.ui.EditFinance.EditFinanceFragment"
+        android:label="@string/menu_edit_finance"
+        tools:layout="@layout/fragment_edit_finance" />
+
+</navigation>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/johaa/OneDrive/Skrivbord/Kurser/Application of Android/Ass1_Second/app/src/main/res/layout/content_main.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/johaa/OneDrive/Skrivbord/Kurser/Application of Android/Ass1_Second/app/src/main/res/layout/finance_row.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/johaa/OneDrive/Skrivbord/Kurser/Application of Android/Ass1_Second/app/src/main/res/layout/fragment_finance.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/johaa/OneDrive/Skrivbord/Kurser/Application of Android/Ass1_Second/app/src/main/res/layout/fragment_gallery.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/johaa/OneDrive/Skrivbord/Kurser/Application of Android/Ass1_Second/app/src/main/res/layout/fragment_slideshow.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/johaa/OneDrive/Skrivbord/Kurser/Application of Android/FinanceApp/app/src/main/res/drawable/ic_manage.xml" value="0.3615" />
+        <entry key="..\:/Users/johaa/OneDrive/Skrivbord/Kurser/Application of Android/FinanceApp/app/src/main/res/layout/activity_main.xml" value="0.55" />
+        <entry key="..\:/Users/johaa/OneDrive/Skrivbord/Kurser/Application of Android/FinanceApp/app/src/main/res/layout/app_bar_main.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/johaa/OneDrive/Skrivbord/Kurser/Application of Android/FinanceApp/app/src/main/res/layout/content_main.xml" value="0.36761710794297353" />
+        <entry key="..\:/Users/johaa/OneDrive/Skrivbord/Kurser/Application of Android/FinanceApp/app/src/main/res/layout/finance_row.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/johaa/OneDrive/Skrivbord/Kurser/Application of Android/FinanceApp/app/src/main/res/layout/fragment_edit_finance.xml" value="0.5" />
+        <entry key="..\:/Users/johaa/OneDrive/Skrivbord/Kurser/Application of Android/FinanceApp/app/src/main/res/layout/fragment_finance.xml" value="0.4096989966555184" />
+        <entry key="..\:/Users/johaa/OneDrive/Skrivbord/Kurser/Application of Android/FinanceApp/app/src/main/res/layout/fragment_gallery.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/johaa/OneDrive/Skrivbord/Kurser/Application of Android/FinanceApp/app/src/main/res/layout/fragment_slideshow.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/johaa/OneDrive/Skrivbord/Kurser/Application of Android/FinanceApp/app/src/main/res/layout/login.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/johaa/OneDrive/Skrivbord/Kurser/Application of Android/FinanceApp/app/src/main/res/layout/nav_header_main.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/johaa/OneDrive/Skrivbord/Kurser/Application of Android/FinanceApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.3229166666666667" />
+        <entry key="..\:/Users/johaa/OneDrive/Skrivbord/Kurser/Application of Android/FinanceApp/app/src/main/res/menu/main.xml" value="0.3229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
